@@ -1,0 +1,30 @@
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.btnSearch.resources
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.Properties.Resources.resources
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.GenerateResource.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.btnSearch.resources
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.Properties.Resources.resources
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.GenerateResource.cache
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\Computing\My Code Snippets (Annotated)\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.btnSearch.resources
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.Properties.Resources.resources
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.GenerateResource.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+\\admin5400\shares\redirected$\Students\Documents\vb22\My Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\GitHub Projects (Updated code)\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
